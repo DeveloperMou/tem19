@@ -1,0 +1,326 @@
+.cover{
+
+    position: relative;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.cover span i {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: aliceblue;
+    font-size: 27px;
+    background-color: rgba(8, 8, 8, 0.856);
+    padding: 20px;
+    border-radius: 7px;
+    margin: 21px;
+}
+.all:hover{
+    background-color: rgba(255, 235, 205, 0.329);
+    transition: .6s;
+}
+.cover img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.dp{
+    position: relative;
+}
+.dp img {
+    width: 258px;
+    border-radius: 50%;
+    border: 6px solid royalblue;
+}
+.camera{
+    position: absolute;
+    bottom: 32px;
+    right: 235px;
+    color: aliceblue;
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.287);
+    border-radius: 19%;
+    padding: 7px;
+    font-weight: 100;
+}
+.bam {
+    margin: -65px 7px;
+}
+.eidt{
+    background-color: rgba(15, 15, 14, 0.301);
+    padding: 30px;
+    position: relative;
+    top: 43px;
+    left: 228px;
+    color: white;
+    border-radius: 17px;
+    font-weight: 100;
+}
+.name {
+    position: relative;
+    color: white;
+    top: -190px;
+    left: 304px;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.name h2 {
+    font-size: 40px;
+   
+}
+nav {}
+nav  li {
+    display: inline-block;
+    padding: 21px 0px;
+    position: relative;
+    top: 23px;
+    left: 0;
+}
+nav  li:hover{
+    background-color: rgba(243, 237, 243, 0.287);
+    border-radius: 10px;
+    
+}
+nav li a:hover{
+    color: white;
+}
+nav li a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 0px 14px;
+    font-size: 24px;
+    font-weight: 100;
+}
+.ee{
+    border-bottom: 1px solid white;
+ 
+
+}
+.coverdp{
+    background-color: rgb(28, 29, 29);
+}
+.pic img {
+    width: 60px;
+    /* position: relative; */
+    border-radius: 50%;
+    /* left: 455px;
+    top: -65px; */
+ 
+}
+.pic{
+    left: 455px;
+    top: -65px;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.164);
+    padding: 10px;
+    width: 26%;
+    border-radius: 17px;
+}
+.like {
+    color: white;
+    background-color: rgba(9, 110, 204, 0.986);
+    padding: 7px 40px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.search{
+    color: white;
+    background-color: rgba(11, 12, 12, 0.26);
+    padding: 7px 40px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.men{
+    color: white;
+    background-color: rgba(11, 12, 12, 0.26);
+    padding: 7px 40px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.promote {
+    position: relative;
+    top: 42px;
+    left: 7px;
+}
+.ss{
+    color: white;
+    font-size: 30px;
+    margin-right: 4px;
+}
+.me img{
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid royalblue;
+}
+img.me {
+    width: 160px;
+    border-radius: 50%;
+    margin: 28px 86px;
+}
+
+.pst {
+}
+
+h3 {
+    background-color: #1515138a;
+    color: white;
+    text-align: center;
+    padding: 31px 4px;
+    border-radius: 18px;
+    position: relative;
+    top: 77px;
+    left: -111px;
+}
+.photo {
+    text-align: center;
+}
+.photo h5 {
+    color: white;
+    font-size: 32px;
+    font-weight: 100;
+    border-radius: 17px;
+}
+.pp{
+    color: rgb(39, 160, 18);
+}
+.mm{
+  color: rgb(24, 58, 168);
+}
+.ff{
+    color: rgb(189, 144, 33);
+}
+.msg{
+    background-color:rgb(32, 31, 31) ;
+    margin: 30px 0px;
+    border-radius: 20px;
+}
+
+
+.final{
+    background-color: rgb(27, 26, 27);
+    padding: 30px;
+    border-radius: 20px;
+}
+.menu-2{
+    border-radius: 20px;
+    padding: 9px 0px;
+}
+.menu-2 ul{}
+
+.menu-2 ul li{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: #0000009e;
+}
+.menu-2 ul li :hover{
+    background-color: rgba(177, 171, 171, 0.554);
+    border-radius: 20px;
+}
+.menu-2 ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 31px;
+    padding: 8px 43px;
+    font-weight: 100;
+}
+.main {
+    background-color: rgb(27, 26, 27);
+    border-radius: 20px;
+    margin: 19px 0px;
+}
+.line {
+    margin: 14px;
+}
+.menu-2 ul li:first-child a{
+    background-color: rgb(27, 26, 27);
+}
+.menu-2 ul li:last-child a{
+    background-color: rgb(27, 26, 27);
+}
+.dp-1 img{
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid royalblue;
+}
+.name-2{
+    color: white;  }
+
+.dot{
+    color: #ffff;
+    font-size: 30px;
+} 
+.text h2 {
+    color: #f8f9fa;
+    font-size: 42px;
+    font-weight: 100;
+    padding: 15px;
+}  
+.haha{
+    color: yellow;
+    font-size: 36px;
+}
+.wow{
+    color: yellow;
+    font-size: 43px;
+    transform: translate(-35px, 6px);
+}
+.love{
+    color: red;
+    font-size: 41px;
+    transform: translate(-17px, 3px);
+}
+.react h5 {
+    font-size: 37px;
+    color: white;
+    transform: translate(-116px, 0px);
+    font-weight: 100;
+}
+.comment h5 {
+    text-align: right;
+    font-size: 40px;
+    color: white;
+    font-weight: 100;
+}
+.eeee{
+    border-bottom: 1px solid rgb(134, 131, 131);
+
+    padding: 10px;
+}
+.crs{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 10px;
+   
+}
+.bb{
+    border-top: 1px solid white;
+}
+.aa-1 {
+    background-color:rgb(32, 31, 31) ;
+    border-radius: 20px;
+    transform: translate(3px , 6px);
+    padding: 19px 22px;
+}
+.aa-2 {
+    background-color:rgb(32, 31, 31) ;
+    border-radius: 20px;
+    transform: translate(3px , 32px);
+    padding: 19px 22px;
+}
+.aa-3 {
+    background-color: rgb(32, 31, 31);
+    border-radius: 20px;
+    transform: translate(3px , 64px);
+    padding: 19px 22px;
+}
+.aa-4 {
+    background-color: rgb(32, 31, 31);
+    border-radius: 20px;
+    transform: translate(3px , 92px);
+    padding: 19px 22px;
+}
